@@ -2,7 +2,7 @@
   "name": "hyina",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://grizzlybearing.github.io/",
+  "homepage": "https://grizzlybearing.github.io/grizzlybearing.github.io/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
